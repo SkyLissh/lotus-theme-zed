@@ -18,6 +18,4 @@ This is a port of the VSCode theme [Lotus Theme](https://marketplace.visualstudi
 2. Search for `Lotus Theme` and click `Install`
 3. Select `Theme Selector` and choose `Lotus Dark` or `Lotus Light`
 
-> Font in screenshots: [Cascadia Code](https://github.com/microsoft/cascadia-code)
-
-> Recommended font [MonoLisa](https://www.monolisa.dev/)
+> Font in screenshots [MonoLisa](https://www.monolisa.dev/)
