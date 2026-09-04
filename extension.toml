@@ -4,4 +4,5 @@ version = "0.1.0"
 schema_version = 1
 authors = ["SkyLissh <alisson.hdz.lopez@hotmail.com>"]
 description = "🌸 A minimal zen theme for Zed"
+license = "MIT"
 repository = "https://github.com/skylissh/lotus-theme-zed"
